@@ -19,7 +19,7 @@ padding-top: 120px;
  align-items: center;
  place-items: center;
  padding-top: 120px;
- grid-column-gap: 200px;
+ grid-column-gap: 4px;
  padding-left: 50px;
  padding-right: 50px;
 }
@@ -28,6 +28,7 @@ padding-top: 120px;
 place-self: center;
 margin: auto;
 }
+
 #box1{
   background:#80d9ff;
   margin:auto;
@@ -50,6 +51,17 @@ line-height: 40px;
 padding-left: 20%;
 font-size: larger;
 line-height: 40px;
+
+}
+.img2{
+  padding-left:80px;
+  padding-top: 40px;
+  padding-bottom: 25px;
+}
+.img3{
+  padding-left:80px;
+  padding-top: 40px;
+
 }
 #box5{
   background:#b2fba5;
